@@ -1,0 +1,1 @@
+All the solutions in this directory use python's input() function to take data linewise. So use the command python filename.py < input.txt to execute the file using the input from input.txt. Note that the input file must contain a blank line at the end.
