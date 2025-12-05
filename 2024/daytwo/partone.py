@@ -1,11 +1,14 @@
 data=[]
 while(True):
-    st = input()
+    st = input()cd
     if(not st):
         break
     data.append(st.split())
 ct=0
 gd=0
+
+def check(arr):
+    
 for i in data:
     i =[int(x) for x in i]
     sig=0
